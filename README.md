@@ -1,13 +1,21 @@
  Hi there. I'm Arsalan Dehghani 👋
 
-<div class="highlight highlight-source-js position-relative overflow-auto" data-snippet-clipboard-copy-content="const ArsalanDehghani = {
-  pronouns: &quot;he&quot; | &quot;man&quot;,
+ A little more about me...
+<pre>
+const ArsalanDehghani = {
+  pronouns: "he" | "man",
   code: [C#, SQL Server, Python],
-  tools: [VS Code],
-  architecture: [&quot;C# Windows Application&quot;],
+  tools: [Visual Studio .NET, VS Code, SSMS, IDLE],
+  architecture: ["C# Windows Application"],
 
- challenge: &quot;I am learning solidity&quot;
-}"><pre>
+  challenge: "I am learning solidity"
+}
+</pre>
+
+- 🔭 I’m currently working on bedc - ICT Office 
+- 🌱 I’m currently learning python, Data Science
+- 💬 Ask me about C#, SQL Server
+
 <!--
 **arsalandehghani/arsalandehghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
