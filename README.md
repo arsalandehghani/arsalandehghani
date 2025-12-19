@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsalandehghani" alt="arsalandehghani" /></a> </p>
 
-- 🔭 I’m currently working on **Python, Data Engeeniring**
+- 🔭 I’m currently working on **Python, Data Engeeniring, Pine Script, MQL, EA**
 
 - 🌱 I’m currently learning **Solidity**
 
